@@ -22,35 +22,23 @@ O RETNI foi criado com o objetivo de facilitar a visualização de entradas e sa
 
 ## ▶️ Como executar o projeto
 
-Clone o repositório:
-
-```bash
-
-```
-
+Clone o repositório: 
+https://github.com/Manoellavs/controle-financeiro-retni.git
 Acesse a pasta do projeto:
 
-```bash
 cd retni
-```
 
 Instale as dependências:
 
-```bash
 npm install
-```
 
 Execute o projeto:
 
-```bash
 npm run dev
-```
 
 Abra no navegador:
 
-```
 http://localhost:3000
-```
 
 ## 🌐 Deploy
 
